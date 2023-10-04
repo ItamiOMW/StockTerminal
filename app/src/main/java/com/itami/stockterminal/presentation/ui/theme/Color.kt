@@ -1,4 +1,4 @@
-package com.itami.stockterminal.ui.theme
+package com.itami.stockterminal.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
